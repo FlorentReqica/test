@@ -1,5 +1,5 @@
-dfdfd dfd fdfd d fd fdf df
-pun prej userit te dyt
 <html>
+<title>Ushtrim</title>
+<h1>Ky eshte h1 tag</h1>
 	<p>Ky eshte nje paragraf!</p>
 </html>
